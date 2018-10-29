@@ -19,11 +19,11 @@ function dec(n){
   n--
   return n
 }
-function makeInt(n){
+function makeInt(2.222){
   parseInt(2.222, 10)
  return n
 }
-function preserveDecimal(n){
+function preserveDecimal(2.2222){
   parseFloat(2.2222)
   return n
 }
