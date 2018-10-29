@@ -19,3 +19,4 @@ function dec(n){
   n--
   return n
 }
+function 
