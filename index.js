@@ -19,7 +19,7 @@ function dec(n){
   n--
   return n
 }
-function makeInt(n, 10){
-  parseInt(n, 10)
+function makeInt(n){
+  parseInt(n)
  return n
 }
