@@ -11,9 +11,11 @@ function divide(a, b){
   return a / b
 }
 
-var number = 5
-
 function inc(n){
   n++
+  return n
+}
+function dec(n){
+  n--
   return n
 }
